@@ -1,0 +1,126 @@
+/* @import url(./fonts.css);
+.mr-auto{
+    margin-right:45px;
+}
+.header-area .main-menu .navbar .navbar-brand{
+    padding: 0 2rem 0 5rem;
+}
+.header-area {
+  font-family: var(--roboto);
+  text-transform: capitalize;
+  font-weight: 500;
+  padding: 1.7 rem;
+  color: rgba(23,23,23,1);
+}
+.nav-link{
+    color:rgba(255,255,255,0.55)
+}
+.nav-link:hover{
+    color: white;
+}
+#id{
+    color: yellow;
+}
+.logodetails{
+    color:yellow
+}
+body{
+    background-color: rgba(23,23,23,1);
+}
+.welcometxt{
+    color: #EAB308;
+    font-weight: 600;
+}
+.bg-dark {
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
+}
+#heroname
+{
+    color: #FFFFFF;
+}
+#description
+{
+    color: #737373;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+.py-lg-18
+{
+padding-top:8.5rem !important;
+}
+#contactbtn{
+    cursor: pointer;
+    transition: 150ms ease;
+    animation-duration: 3s;
+    animation-name: spin;
+}
+.square
+{
+    margin-left: 7%;
+    margin-right: -5%;
+}
+.py-lg-18 {
+    padding-top: 8%;
+    padding-bottom: 8%;
+    }
+@keyframes spin{
+0%{
+
+}
+100%{
+    transform: rotate(360deg);
+    
+}
+}
+
+.aboutdetails{
+    color: #737373;
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+.bg-dark{
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
+}
+.details
+{
+    color: #737373;
+    font-weight: 400;
+    font-size: 1.1rem;
+}
+.contactdetails{
+    display: block;
+}
+.bi-megaphone
+{
+    color: #EAB308 !important;
+   
+}
+.card{
+    background-color:#525252 ;
+
+}
+#portfoliotxt{
+    color: #737373;
+    font-weight: 500;
+    font-size: 1.1rem;
+}
+.card-experience{
+   /* --background-color:  #262626;
+} 
+   .input{
+    background-color: #0a0a0a;  
+}
+.textarea{
+    background-color: #0a0a0a;
+} */
+.form-control{
+    background-color: #0a0a0a;
+    color: #737373;
+    border: #262626;
+}
+#experienceeng{
+
+}
+
